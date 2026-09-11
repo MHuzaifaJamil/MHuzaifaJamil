@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=100000&repeat=false&color=00FF41&background=0A0A0CFF&center=true&vCenter=true&width=780&height=60&lines=whoami+%3E+Muhammad+Huzaifa+Jamil" alt="whoami" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=00FF41&background=0A0A0CFF&center=true&vCenter=true&width=780&height=60&lines=whoami+%3E+MUHAMMAD+HUZAIFA+JAMIL" alt="whoami" />
 </h1>
 
 <p align="center">
