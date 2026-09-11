@@ -187,8 +187,8 @@ BOLA, PII leakage, sensitive data disclosure, and exposed API keys.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MHuzaifaJamil&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHuzaifaJamil&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=MHuzaifaJamil&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=MHuzaifaJamil&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MHuzaifaJamil&theme=github-dark&hide_border=true" />
