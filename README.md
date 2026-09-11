@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/root@offense-VAPT-00FF41?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/root@defense-GRC%20%26%20Compliance-58A6FF?style=for-the-badge&logo=iso&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/root@research-AI%20Security-FF6B6B?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/root@offense-VAPT-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/root@defense-GRC%20%26%20Compliance-0000FF?style=for-the-badge&logo=iso&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/root@research-AI%20Security-FF0000?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   <a href="https://www.credly.com/users/mhuzaifajamil"><img src="https://img.shields.io/badge/Credly-mhuzaifajamil-FF6E00?style=flat-square&logo=credly&logoColor=white" /></a>
   <a href="mailto:m.huzaifa.jamil.cys@gmail.com"><img src="https://img.shields.io/badge/Gmail-m.huzaifa.jamil.cys%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="mailto:m.huzaifa.jamil@outlook.com"><img src="https://img.shields.io/badge/Outlook-m.huzaifa.jamil%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="./Muhammad_Huzaifa_Jamil_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download%20CV-00FF41?style=flat-square&logo=readdotcv&logoColor=black" /></a>
+  <a href="./Muhammad_Huzaifa_Jamil_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download%20CV-00AA00?style=flat-square&logo=readdotcv&logoColor=black" /></a>
 </p>
 
 <p align="center">
