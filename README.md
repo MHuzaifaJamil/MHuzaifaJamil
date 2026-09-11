@@ -13,6 +13,7 @@
   <a href="https://github.com/MHuzaifaJamil"><img src="https://img.shields.io/badge/GitHub-MHuzaifaJamil-181717?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="https://www.credly.com/users/mhuzaifajamil"><img src="https://img.shields.io/badge/Credly-mhuzaifajamil-FF6E00?style=flat-square&logo=credly&logoColor=white" /></a>
   <a href="mailto:m.huzaifa.jamil.cys@gmail.com"><img src="https://img.shields.io/badge/Email-m.huzaifa.jamil.cys%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="./Muhammad_Huzaifa_Jamil_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download%20CV-00FF41?style=flat-square&logo=readdotcv&logoColor=black" /></a>
 </p>
 
 <p align="center">
@@ -144,6 +145,33 @@
   <img src="https://img.shields.io/badge/HIPAA-00838F?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/COBIT-37474F?style=for-the-badge&logoColor=white" />
 </p>
+
+> 📖 Full breakdown of every tool in the arsenal, mapped across the VAPT lifecycle:
+> **[External Tool Arsenal & VAPT Cycle Reference →](./portfolio/External_Tool_Arsenal_Portfolio.pdf)** *(72 tools)*
+
+---
+
+### 🧨 Featured: Vulnerability PoC & Exploit Portfolio
+
+<p align="left">
+  <a href="./portfolio/Vulnerability_PoC_Exploit_Portfolio.pdf"><img src="https://img.shields.io/badge/Read%20the%20Portfolio-22%20PoCs-B4182F?style=for-the-badge&logo=hackthebox&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/TLP-CLEAR-F0A500?style=for-the-badge&logoColor=black" />
+</p>
+
+A curated collection of **22 proof-of-concept write-ups** distilled from real, authorized engagements —
+every issue documented has already been remediated by the affected organization. Targets, identifiers, and
+figures are generalized/fictionalized; the focus is the vulnerability **mechanism**, not any specific system.
+Organized across 5 industry verticals:
+
+| Sector | PoCs | Highlights |
+|---|---|---|
+| 📺 **Streaming Platforms** | 9 | BOLA mass PII enumeration, hardcoded client-side crypto keys, QR session fixation → ATO, XML-RPC brute-force |
+| 🛒 **E-Commerce** | 6 | NoSQL operator injection, unauthenticated Firebase RTDB, payment-webhook forgery, IAM realm confusion |
+| ✈️ **Travel & Tourism** | 3 | Unauthenticated Kubernetes dashboard (full secret disclosure), BFLA booking void, IDOR guest PII enumeration |
+| 🏛️ **Government Agencies** | 2 | Service-descriptor leak → search-index injection, pre-auth deserialization code path |
+| 🤝 **NGOs / Non-Profit** | 2 | Production debug-mode RCE preconditions, client-suppliable role → super-admin privilege escalation |
+
+**[📄 Read the full portfolio (PDF) →](./portfolio/Vulnerability_PoC_Exploit_Portfolio.pdf)**
 
 ---
 
