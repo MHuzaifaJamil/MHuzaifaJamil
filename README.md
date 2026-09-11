@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=30&pause=1000&repeat=false&multiline=true&color=FFB300&background=0A0A0CFF&center=true&vCenter=true&width=1000&height=110&lines=Prepare%20against%20them%20what%20you%20%28believers%29%20can%20of%20%28military%29%20power%20and%20cavalry;to%20deter%20Allah%27s%20enemies%20and%20your%20enemies%20as%20well%20as%20other%20enemies%20unknown;to%20you%20but%20known%20to%20Allah.%20%20%20%E2%80%94%20%20%20Surah%20Al-Anfal%2C%20Ayah%2060" alt="Surah Al-Anfal, Ayah 60" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=50&pause=1000&repeat=false&multiline=true&color=FF0000&background=0A0A0CFF&center=true&vCenter=true&width=1000&height=110&lines=Prepare%20against%20them%20what%20you%20%28believers%29%20can%20of%20%28military%29%20power%20and%20cavalry;to%20deter%20Allah%27s%20enemies%20and%20your%20enemies%20as%20well%20as%20other%20enemies%20unknown;to%20you%20but%20known%20to%20Allah.%20%20%20%E2%80%94%20%20%20Surah%20Al-Anfal%2C%20Ayah%2060" alt="Surah Al-Anfal, Ayah 60" />
 </p>
 
 <h1 align="center">
