@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 34" width="900" height="34">
+  <defs>
+    <clipPath id="clip-defense">
+      <rect x="120" y="0" width="780" height="34" />
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="900" height="34" fill="#0A0A0C" stroke="#2A2A34" stroke-width="1" />
+  <rect x="0" y="0" width="120" height="34" fill="#15151B" />
+  <rect x="118" y="0" width="2" height="34" fill="#4D94FF" />
+  <text x="60.0" y="21.0" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1" fill="#4D94FF">DEFENSE</text>
+  <g clip-path="url(#clip-defense)">
+    <g>
+      <text x="120" y="21.0" font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#4D94FF">Translating high-risk exploits into verifiable remediation    ▹    Hardening cloud perimeters against lateral movement    ▹    Zero-trust architectures backed by deterministic evidence    ▹    Continuous posture validation from code to cloud    ▹    Building resilient defenses against persistent vectors    ▹    </text>
+      <text x="2937.0" y="21.0" font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#4D94FF">Translating high-risk exploits into verifiable remediation    ▹    Hardening cloud perimeters against lateral movement    ▹    Zero-trust architectures backed by deterministic evidence    ▹    Continuous posture validation from code to cloud    ▹    Building resilient defenses against persistent vectors    ▹    </text>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="-2817.0,0" dur="15.65s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>

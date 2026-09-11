@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 34" width="900" height="34">
+  <defs>
+    <clipPath id="clip-ai-security">
+      <rect x="120" y="0" width="780" height="34" />
+    </clipPath>
+  </defs>
+  <rect x="0" y="0" width="900" height="34" fill="#0A0A0C" stroke="#2A2A34" stroke-width="1" />
+  <rect x="0" y="0" width="120" height="34" fill="#15151B" />
+  <rect x="118" y="0" width="2" height="34" fill="#FF3B3B" />
+  <text x="60.0" y="21.0" text-anchor="middle" font-family="'Fira Code', Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1" fill="#FF3B3B">AI SEC</text>
+  <g clip-path="url(#clip-ai-security)">
+    <g>
+      <text x="120" y="21.0" font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#FF3B3B">Stress-testing LLM guardrails and agentic workflows    ▹    Jailbreaking models to harden intelligence    ▹    Model Context Protocol (MCP) security auditing    ▹    Exposing the security illusion in AI-generated code    ▹    Automating discovery through turn-based agent swarms    ▹    </text>
+      <text x="2703.0" y="21.0" font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#FF3B3B">Stress-testing LLM guardrails and agentic workflows    ▹    Jailbreaking models to harden intelligence    ▹    Model Context Protocol (MCP) security auditing    ▹    Exposing the security illusion in AI-generated code    ▹    Automating discovery through turn-based agent swarms    ▹    </text>
+      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="-2583.0,0" dur="14.35s" repeatCount="indefinite" />
+    </g>
+  </g>
+</svg>

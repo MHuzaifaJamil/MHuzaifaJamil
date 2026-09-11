@@ -3,22 +3,30 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=780&lines=whoami+%3E+Muhammad+Huzaifa+Jamil;Cyber+Security+Engineer+%7C+GRC+%26+AI+Safety;Breaking+systems+by+day%2C+auditing+them+by+night;OWASP+%7C+ISO27001+%7C+NIST+CSF+%7C+PCI+DSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=100000&repeat=false&color=00FF41&background=0A0A0CFF&center=true&vCenter=true&width=780&height=60&lines=whoami+%3E+Muhammad+Huzaifa+Jamil" alt="whoami" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/root@offense-VAPT-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/root@defense-GRC%20%26%20Compliance-0000FF?style=for-the-badge&logo=iso&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/root@research-AI%20Security-FF0000?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-offensive.svg" width="900" alt="Offensive & VAPT ticker" /><br/>
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-ai-security.svg" width="900" alt="AI Security & Adversarial Testing ticker" /><br/>
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-low-level.svg" width="900" alt="Low-Level & Systems Internals ticker" /><br/>
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-defense.svg" width="900" alt="Defense, Architecture & Hardening ticker" /><br/>
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-terminal.svg" width="900" alt="Terminal-Style ticker" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mhuzaifajamil/"><img src="https://img.shields.io/badge/LinkedIn-mhuzaifajamil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/MHuzaifaJamil"><img src="https://img.shields.io/badge/GitHub-MHuzaifaJamil-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/mhuzaifajamil"><img src="https://img.shields.io/badge/Credly-mhuzaifajamil-FF6E00?style=flat-square&logo=credly&logoColor=white" /></a>
-  <a href="mailto:m.huzaifa.jamil.cys@gmail.com"><img src="https://img.shields.io/badge/Gmail-m.huzaifa.jamil.cys%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="mailto:m.huzaifa.jamil@outlook.com"><img src="https://img.shields.io/badge/Outlook-m.huzaifa.jamil%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="./Muhammad_Huzaifa_Jamil_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download%20CV-00AA00?style=flat-square&logo=readdotcv&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/root@offense-VAPT-00FF00?style=for-the-badge&logo=gnu-bash&logoColor=black&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/root@defense-GRC%20%26%20Compliance-0000FF?style=for-the-badge&logo=iso&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/root@research-AI%20Security-FF0000?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A0A0C" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mhuzaifajamil/"><img src="https://img.shields.io/badge/LinkedIn-mhuzaifajamil-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0C" /></a>
+  <a href="https://github.com/MHuzaifaJamil"><img src="https://img.shields.io/badge/GitHub-MHuzaifaJamil-00FF41?style=flat-square&logo=github&logoColor=black&labelColor=0A0A0C" /></a>
+  <a href="https://www.credly.com/users/mhuzaifajamil"><img src="https://img.shields.io/badge/Credly-mhuzaifajamil-FF6E00?style=flat-square&logo=credly&logoColor=white&labelColor=0A0A0C" /></a>
+  <a href="mailto:m.huzaifa.jamil.cys@gmail.com"><img src="https://img.shields.io/badge/Gmail-m.huzaifa.jamil.cys%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0A0A0C" /></a>
+  <a href="mailto:m.huzaifa.jamil@outlook.com"><img src="https://img.shields.io/badge/Outlook-m.huzaifa.jamil%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white&labelColor=0A0A0C" /></a>
+  <a href="./Muhammad_Huzaifa_Jamil_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download%20CV-00AA00?style=flat-square&logo=readdotcv&logoColor=black&labelColor=0A0A0C" /></a>
 </p>
 
 <p align="center">
@@ -64,8 +72,8 @@
 ### Certifications — Earned
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity%20(CC)-ISC2-0072C6?style=for-the-badge&logo=isc2&logoColor=white" />
-  <img src="https://img.shields.io/badge/ICIP-OPSWAT%20Academy-1B3A5C?style=for-the-badge&logo=opsec&logoColor=white" />
+  <img src="https://img.shields.io/badge/Certified%20in%20Cybersecurity%20(CC)-ISC2-0066FF?style=for-the-badge&logo=isc2&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/ICIP-OPSWAT%20Academy-1E6FD9?style=for-the-badge&logo=opsec&logoColor=white&labelColor=0A0A0C" />
 </p>
 
 | Certification | Issuer | Status |
@@ -83,20 +91,20 @@
 > Everything below is a **target, not a claim** — actively working toward these, not holding them yet.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CPTS-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/CDSA-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/OSCP-OffSec-B00610?style=for-the-badge&logo=offensive-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/CISA-ISACA-3767AA?style=for-the-badge&logo=isaca&logoColor=white" />
-  <img src="https://img.shields.io/badge/CISM-ISACA-3767AA?style=for-the-badge&logo=isaca&logoColor=white" />
-  <img src="https://img.shields.io/badge/AAISM-ISACA-3767AA?style=for-the-badge&logo=isaca&logoColor=white" />
-  <img src="https://img.shields.io/badge/CISSP-ISC2-0072C6?style=for-the-badge&logo=isc2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AIGP-IAPP-4B2E83?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CEH-EC--Council-CC2936?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CPTS-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/CDSA-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/OSCP-OffSec-B00610?style=for-the-badge&logo=offensive-security&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/CISA-ISACA-2A5CD1?style=for-the-badge&logo=isaca&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/CISM-ISACA-2A5CD1?style=for-the-badge&logo=isaca&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/AAISM-ISACA-2A5CD1?style=for-the-badge&logo=isaca&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/CISSP-ISC2-0066FF?style=for-the-badge&logo=isc2&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/AIGP-IAPP-7B2CBF?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/CEH-EC--Council-E0203A?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/Security%2B-CompTIA-C8102E?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/eJPT-INE-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PT1%20%7C%20SAL1%20%7C%20SEC1%20%7C%20AI1-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  <img src="https://img.shields.io/badge/Security%2B-CompTIA-C8102E?style=for-the-badge&logo=comptia&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/eJPT-INE-000000?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/PT1%20%7C%20SAL1%20%7C%20SEC1%20%7C%20AI1-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red&labelColor=0A0A0C" />
 </p>
 
 | Certification | Issuer |
@@ -122,21 +130,21 @@
 ### Arsenal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-9CCC65?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Ghidra-9CCC65?style=for-the-badge&logoColor=black&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Huawei%20Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white&labelColor=0A0A0C" />
 </p>
 
 **71-Tool Offensive/Defensive Toolchain** (from the full arsenal reference below):
@@ -174,12 +182,12 @@
 ### Frameworks & Standards
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-003366?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/NIST%20CSF-1B3A5C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/PCI%20DSS%20v4.0.1-6A1B9A?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SOC%201%2F2-455A64?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/HIPAA-00838F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/COBIT-37474F?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ISO%2FIEC%2027001-003366?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/NIST%20CSF-1B3A5C?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/PCI%20DSS%20v4.0.1-6A1B9A?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/SOC%201%2F2-455A64?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/HIPAA-00838F?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
+  <img src="https://img.shields.io/badge/COBIT-37474F?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
 </p>
 
 ---
