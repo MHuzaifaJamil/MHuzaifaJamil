@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=50&pause=1000&repeat=false&multiline=true&color=FF0000&background=0A0A0CFF&center=true&vCenter=true&width=1000&height=110&lines=Prepare%20against%20them%20what%20you%20%28believers%29%20can%20of%20%28military%29%20power%20and%20cavalry;to%20deter%20Allah%27s%20enemies%20and%20your%20enemies%20as%20well%20as%20other%20enemies%20unknown;to%20you%20but%20known%20to%20Allah.%20%20%20%E2%80%94%20%20%20Surah%20Al-Anfal%2C%20Ayah%2060" alt="Surah Al-Anfal, Ayah 60" />
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ayah-banner.svg" width="1000" alt="Surah Al-Anfal, Ayah 60" />
 </p>
 
 <h1 align="center">
@@ -7,11 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-offensive.svg" width="900" alt="Offensive & VAPT ticker" /><br/>
-  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-ai-security.svg" width="900" alt="AI Security & Adversarial Testing ticker" /><br/>
-  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-low-level.svg" width="900" alt="Low-Level & Systems Internals ticker" /><br/>
-  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-defense.svg" width="900" alt="Defense, Architecture & Hardening ticker" /><br/>
-  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-terminal.svg" width="900" alt="Terminal-Style ticker" />
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-feed.svg" width="900" alt="Live feed ticker" />
 </p>
 
 <p align="center">
@@ -21,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mhuzaifajamil/"><img src="https://img.shields.io/badge/LinkedIn-mhuzaifajamil-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A0A0C" /></a>
+  <a href="https://www.linkedin.com/in/mhuzaifajamil/"><img src="https://img.shields.io/badge/LinkedIn-mhuzaifajamil-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=0A0A0C" /></a>
   <a href="https://github.com/MHuzaifaJamil"><img src="https://img.shields.io/badge/GitHub-MHuzaifaJamil-00FF41?style=flat-square&logo=github&logoColor=black&labelColor=0A0A0C" /></a>
   <a href="https://www.credly.com/users/mhuzaifajamil"><img src="https://img.shields.io/badge/Credly-mhuzaifajamil-FF6E00?style=flat-square&logo=credly&logoColor=white&labelColor=0A0A0C" /></a>
   <a href="mailto:m.huzaifa.jamil.cys@gmail.com"><img src="https://img.shields.io/badge/Gmail-m.huzaifa.jamil.cys%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white&labelColor=0A0A0C" /></a>
