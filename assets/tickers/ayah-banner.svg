@@ -11,12 +11,6 @@
     </g>
   </g>
   <g font-family="'Fira Code', Consolas, monospace" font-size="13" fill="#C98E00" text-anchor="middle">
-    <text x="492.0" y="108">— Surah Al-Anfal, Ayah 60</text>
-  </g>
-  <g font-family="'Fira Code', Consolas, monospace" font-size="15" fill="#FF3B3B">
-    <text x="632.0" y="108">
-      <tspan>&#9608;</tspan>
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" />
-    </text>
+    <text x="500.0" y="108">— Surah Al-Anfal, Ayah 60</text>
   </g>
 </svg>
