@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=100000&repeat=false&color=B4182F&center=true&vCenter=true&width=780&height=60&lines=MUHAMMAD+HUZAIFA+JAMIL" alt="Muhammad Huzaifa Jamil" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=100000&repeat=false&color=FF000F&center=true&vCenter=true&width=780&height=60&lines=MUHAMMAD+HUZAIFA+JAMIL" alt="Muhammad Huzaifa Jamil" />
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-feed.svg" width="900" alt="Live feed ticker" />
+  <img src="https://raw.githubusercontent.com/MHuzaifaJamil/MHuzaifaJamil/master/assets/tickers/ticker-feed.svg" width="1000" alt="Live feed ticker" />
 </p>
 
 <p align="center">
@@ -544,6 +544,6 @@ BOLA, PII leakage, sensitive data disclosure, and exposed API keys.
 ---
 
 <p align="center">
-  <sub>🕌 <i>"Verily, with hardship comes ease." — Qur'an 94:6</i></sub><br/>
-  <sub>Reach me: <a href="mailto:m.huzaifa.jamil.cys@gmail.com">m.huzaifa.jamil.cys@gmail.com</a> · <a href="mailto:m.huzaifa.jamil@outlook.com">m.huzaifa.jamil@outlook.com</a> · <a href="https://www.linkedin.com/in/mhuzaifajamil/">LinkedIn</a> · <a href="https://www.credly.com/users/mhuzaifajamil">Credly</a></sub>
+  <sub> <i>"Verily, with hardship comes ease." — Qur'an 94:6</i></sub><br/>
+  <sub> <a href="mailto:m.huzaifa.jamil.cys@gmail.com">m.huzaifa.jamil.cys@gmail.com</a> · <a href="mailto:m.huzaifa.jamil@outlook.com">m.huzaifa.jamil@outlook.com</a> · <a href="https://www.linkedin.com/in/mhuzaifajamil/">LinkedIn</a> · <a href="https://www.credly.com/users/mhuzaifajamil">Credly</a></sub>
 </p>
