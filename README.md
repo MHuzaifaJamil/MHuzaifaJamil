@@ -219,12 +219,12 @@ Open-source blueprint for local multi-agent orchestration, deterministic safety 
 testing workflows — a privacy-first CLI engine chaining 6 quantized 8B open-weight LLMs, entirely air-gapped
 on 16GB RAM.
 
-**AI Codebase Analyzer / FloXript — Intelligent Knowledge Builder** *(10Pearls FYP Accelerator, Team Lead · NED University Applied R&D)*
+**[AI Codebase Analyzer / FloXript](https://github.com/MHuzaifaJamil/FloXript) — Intelligent Knowledge Builder** *(10Pearls FYP Accelerator, Team Lead · NED University Applied R&D)*
 Python + Docker + PocketFlow pipeline with a Gemini/OpenAI-powered RAG layer over vector databases, using
 Model Context Protocol (MCP) and semantic embeddings to auto-generate threat-focused edge cases, scan
 repositories for vulnerabilities, and speed up developer onboarding. Contact: **Floxript@gmail.com**
 
-**XploreLoct — Intelligent Event Ecosystem** *(NED University, Evolutionary Lifecycle Engineering Project)*
+**[XploreLoct](https://github.com/MHuzaifaJamil/XploreLoct) — Intelligent Event Ecosystem** *(NED University, Evolutionary Lifecycle Engineering Project)*
 Scalable Event Management System portal leveraging Design Patterns, DBMS, Geolocation Mapping, and
 Predictive Models to accurately forecast attendee turnout.
 
