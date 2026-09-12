@@ -63,6 +63,11 @@
   <img src="https://img.shields.io/badge/TLP-CLEAR-F0A500?style=for-the-badge&logoColor=black" />
 </p>
 
+<details>
+<summary><b>22 proof-of-concept write-ups across 5 industry verticals — click to expand</b></summary>
+
+<br/>
+
 A curated collection of **22 proof-of-concept write-ups** distilled from real, authorized engagements —
 every issue documented has already been remediated by the affected organization. Targets, identifiers, and
 figures are generalized/fictionalized; the focus is the vulnerability **mechanism**, not any specific system.
@@ -77,11 +82,6 @@ Organized across 5 industry verticals:
 | 🤝 **NGOs / Non-Profit** | 2 | Production debug-mode RCE preconditions, client-suppliable role → super-admin privilege escalation |
 
 **[📄 Read the full portfolio (PDF) →](./portfolio/Vulnerability_PoC_Exploit_Portfolio.pdf)**
-
-<details>
-<summary><b>22 individual PoC titles — click to expand</b></summary>
-
-<br/>
 
 **📺 Streaming Platforms**
 - MHJ-POC-01 — Broken Object-Level Authorization (BOLA) — Mass PII Enumeration
@@ -219,7 +219,10 @@ boundary-check failures in security-constrained code generation.
   <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white&labelColor=0A0A0C" />
 </p>
 
-**72-Tool Offensive/Defensive Toolchain** (from the full arsenal reference below):
+<details>
+<summary><b>72-Tool Offensive/Defensive Toolchain — click to expand</b></summary>
+
+<br/>
 
 **Recon & Subdomain Enum**
 
@@ -343,6 +346,8 @@ boundary-check failures in security-constrained code generation.
   <img src="https://img.shields.io/badge/objection-37474F?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTQgNGgxNnYxNkg0eiIvPjwvc3ZnPg%3D%3D&logoColor=white&labelColor=0A0A0C" />
 </p>
 
+</details>
+
 > 📖 Full breakdown of every tool in the arsenal, mapped across the VAPT lifecycle:
 > **[External Tool Arsenal & VAPT Cycle Reference →](./portfolio/External_Tool_Arsenal_Portfolio.pdf)**
 
@@ -359,6 +364,11 @@ boundary-check failures in security-constrained code generation.
   <img src="https://img.shields.io/badge/HIPAA-00838F?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
   <img src="https://img.shields.io/badge/COBIT-37474F?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
 </p>
+
+<details>
+<summary><b>+20 more frameworks, standards, laws & methodologies — click to expand</b></summary>
+
+<br/>
 
 **VAPT Methodologies**
 
@@ -394,6 +404,8 @@ boundary-check failures in security-constrained code generation.
   <img src="https://img.shields.io/badge/CCPA%20%2F%20CPRA-6A1B2E?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
   <img src="https://img.shields.io/badge/NIS2%20Directive-6A1B2E?style=for-the-badge&logoColor=white&labelColor=0A0A0C" />
 </p>
+
+</details>
 
 ---
 
