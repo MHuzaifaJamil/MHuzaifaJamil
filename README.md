@@ -30,6 +30,8 @@
 </p>
 
 <p align="center"><i>"(¥83|*  53(|_||*17¥   3|\|&1|\|33|*  ₩17#  4  50|=7₩4|*3  3|\|&1|\|33|*1|\|&  |=0|_||\||)4710|\|"</i></p>
+<p align="center"><i>{Ask AI to Decode this symbol-based leetspeak cipher into plain English}</i></p>
+
 
 ---
 
