@@ -29,7 +29,7 @@
   <img src="https://komarev.com/ghpvc/?username=MHuzaifaJamil&label=Profile%20Views&color=00FF41&style=flat-square" />
 </p>
 
-<p align="center"><i>"(¥83|*  53(|_||*17¥  (5₩)  3|\|&1|\|33|*  ₩17#  4  50|=7₩4|*3  3|\|&1|\|33|*1|\|&  |=0|_||\||)4710|\|"</i></p>
+<p align="center"><i>"(¥83|*  53(|_||*17¥   3|\|&1|\|33|*  ₩17#  4  50|=7₩4|*3  3|\|&1|\|33|*1|\|&  |=0|_||\||)4710|\|"</i></p>
 
 ---
 
